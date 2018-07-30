@@ -1,9 +1,9 @@
 # Landing start template
 To install run "npm install"
 
-Available commands:
-npm start - to start webserver with livereload
-npm run clean - to clean public folder (In order to delete old versions of images for example)
+Available commands:<br/>
+npm start - to start webserver with livereload<br/>
+npm run clean - to clean public folder (In order to delete old versions of images for example)<br/>
 
 Structure of any project started with this config:
 src/
