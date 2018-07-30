@@ -2,7 +2,9 @@
   "name": "landing-start",
   "version": "1.0.0",
   "description": "Starting landing page template for dev",
-  "scripts": {"start": "gulp"},
+  "scripts": {
+    "start": "gulp"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Wmaileq/landing-start.git"
