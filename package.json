@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Starting landing page template for dev",
   "scripts": {
-    "start": "gulp"
+    "start": "gulp",
+    "clean": "gulp clean"
   },
   "repository": {
     "type": "git",

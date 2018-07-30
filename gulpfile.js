@@ -93,4 +93,5 @@ function webserver() {
   return bs(config)
 }
 
+gulp.task('clean', clean);
 gulp.task('default', gulp.series(build, gulp.parallel(webserver, watch)));
