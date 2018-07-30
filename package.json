@@ -1,0 +1,30 @@
+{
+  "name": "landing-start",
+  "version": "1.0.0",
+  "description": "Starting landing page template for dev",
+  "scripts": {"start": "gulp"},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wmaileq/landing-start.git"
+  },
+  "author": "Vladislav Kirilenok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wmaileq/landing-start/issues"
+  },
+  "homepage": "https://github.com/Wmaileq/landing-start#readme",
+  "dependencies": {
+    "browser-sync": "^2.24.6",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-htmlmin": "^4.0.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-notify": "^3.2.0",
+    "gulp-sass": "^4.0.1",
+    "gulp-uglify": "^3.0.1",
+    "imagemin-pngquant": "^6.0.0",
+    "rimraf": "^2.6.2"
+  }
+}
